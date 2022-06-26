@@ -22,7 +22,7 @@
 <br />
 
                         I am a 4rd year student at Istanbul Bilgi University , I will be Software Developer
-                        I share my example lessons to being useful, It may be of course :)
+                        I share my example lessons.
                         I will write blogs about coding. Sharing information with someone is my hobby 
 <p align="center">
 
