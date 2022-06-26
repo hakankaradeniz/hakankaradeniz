@@ -23,7 +23,7 @@
 <br />
 <br />
 
-I am a 4rd year student at Istanbul Bilgi University , I want to be Software Developer
+I am a 4rd year student at Istanbul Bilgi University , I will be Software Developer
 
 <p align="center">
 <a target="_blank" href="https://github.com/hakankaradeniz"><img alt="My GitHub Profile"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg"></a>
