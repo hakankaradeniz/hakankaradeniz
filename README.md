@@ -17,17 +17,15 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hakan-karadeniz-644880180/n">
-  <img align="left" alt="Hakan Karadeniz" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/hakan-karadeniz-644880180/n"><img align="left" alt="Hakan Karadeniz" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <br />
 <br />
 
 I am a 4rd year student at Istanbul Bilgi University , I will be Software Developer
 
 <p align="center">
-<a target="_blank" href="https://github.com/hakankaradeniz"><img alt="My GitHub Profile"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg"></a>
-<img src="https://komarev.com/ghpvc/?username=umitkoc&color=orange" alt="umitkoc :: Profile Stats"></a>
+
+<a href="https://github.com/hakankaradeniz" target="_blank"><img src="https://komarev.com/ghpvc/?username=hakankaradeniz&color=orange" alt="hakankaradeniz :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/hakan-karadeniz-644880180/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hakankaradeniz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:hakan.karadeniz@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-hakan.karadeniz@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
 </p>
