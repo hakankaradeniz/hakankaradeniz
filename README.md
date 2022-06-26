@@ -48,7 +48,6 @@ I am a 4rd year student at Istanbul Bilgi University , I want to be Software Dev
 
 
 -----------------------------
-<a target="_blank" href=https://wakatime.com/@Karadeniz><img alt="WakaTime" src="https://wakatime.com/badge/user/364014ef-3ada-4982-8714-41e26c71b234.svg"></a>
 
 <img width="49%" src="https://wakatime.com/share/@364014ef-3ada-4982-8714-41e26c71b234/aed6fae8-b384-490f-b0a1-564861af2748.svg"> 
                                                                  
