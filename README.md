@@ -32,7 +32,7 @@
 </p>
 
 - 🔭 I’m currently working on C/C++
-- 🌱 I’m currently learning C/C++ , Python , Ultra Wide Band Technology
+- 🌱 I’m currently learning C++, C#, Java
 - 👯 I’m looking to collaborate on Open Source Projects
 
 ### Languages and Tools:
