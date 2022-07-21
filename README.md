@@ -27,6 +27,7 @@
 <p align="center">
 
 <a href="https://github.com/hakankaradeniz" target="_blank"><img src="https://komarev.com/ghpvc/?username=hakankaradeniz&color=orange" alt="hakankaradeniz :: Profile Stats"></a>
+<a href="https://hakankaradeniz.github.io/" target="_blank"><img src="https://komarev.com/ghpvc/?username=hakankaradeniz&color=orange" alt="hakankaradeniz"></a>
 <a href="https://www.linkedin.com/in/hakan-karadeniz-644880180/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hakankaradeniz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:hakan.karadeniz@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-hakan.karadeniz@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
 </p>
