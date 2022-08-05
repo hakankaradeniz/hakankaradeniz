@@ -18,6 +18,7 @@
 
 
 <a href="https://www.linkedin.com/in/karadenizhakan"><img align="left" alt="Hakan Karadeniz" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<img width="49%" src="https://hakankaradeniz.github.io/" target="_blank"><img src="https://icon-library.com/images/icon-website-png/icon-website-png-0.jpg"> 
 <a href="https://hakankaradeniz.github.io/" target="_blank"><img src="https://icon-library.com/images/icon-website-png/icon-website-png-0.jpg" alt="hakankaradeniz" width="22px"></a>
   
 <br />
