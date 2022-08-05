@@ -50,5 +50,4 @@
 
 -----------------------------
 
-<img width="49%" src="https://wakatime.com/share/@364014ef-3ada-4982-8714-41e26c71b234/aed6fae8-b384-490f-b0a1-564861af2748.svg"> 
-                                                                 
+<img width="49%" src="https://wakatime.com"><img src="https://wakatime.com/share/@Karadeniz/d5e3db72-3c3f-4882-84a2-ee70225b7a16.png"> 
