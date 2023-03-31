@@ -1,5 +1,5 @@
 ```
-                                                                   HAKAN KARADENİZ
+                             HAKAN KARADENİZ
                                                                            
 ```
 <p align="center">
@@ -13,9 +13,9 @@
 <br />
 <br />
 
-                        I am a 4rd year student at Istanbul Bilgi University
-                        I share my example lessons.
-                        Sharing information with someone is my hobby 
+                            I am a 4rd year student at Istanbul Bilgi University
+                            I share my example lessons.
+                            Sharing information with someone is my hobby 
 <p align="center">
 
 <a href="https://github.com/hakankaradeniz" target="_blank"><img src="https://komarev.com/ghpvc/?username=hakankaradeniz&color=orange" alt="hakankaradeniz :: Profile Stats"></a>
@@ -31,16 +31,6 @@
 
 
 
-### Languages and Tools:
-[<code>
-<img alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-</code>](https://en.wikipedia.org/wiki/The_C_Programming_Language)[<code>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-</code>](https://en.wikipedia.org/wiki/C%2B%2B)
-
-
-
-
 -----------------------------
 
-<img width="49%" src="https://wakatime.com"><img src="https://wakatime.com/share/@Karadeniz/d5e3db72-3c3f-4882-84a2-ee70225b7a16.png"> 
+<img width="49%" src="https://c4.wallpaperflare.com/wallpaper/821/34/358/circuits-city-cpu-skyscraper-wallpaper-preview.jpg"> 
