@@ -7,7 +7,7 @@
 <img src="https://c4.wallpaperflare.com/wallpaper/821/34/358/circuits-city-cpu-skyscraper-wallpaper-preview.jpg" width="55%">
 </p>
 
-<p align="center">
+<p align="right">
 <a href="https://www.linkedin.com/in/karadenizhakan">
 <p align="center">
 <img align="left" alt="Hakan Karadeniz" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
