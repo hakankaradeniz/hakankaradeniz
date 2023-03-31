@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/karadenizhakan"><img align="left" alt="Hakan Karadeniz" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-</p>
+  
+<a href="https://www.linkedin.com/in/karadenizhakan"><img align="left" alt="Hakan Karadeniz" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</p></a>
+
 
 <p align="center">
 <a href="https://hakankaradeniz.github.io/" target="_blank"><img src="https://icon-library.com/images/icon-website-png/icon-website-png-0.jpg" alt="hakankaradeniz" width="44px"></a>
