@@ -1,16 +1,6 @@
 ```
-                    _        
-  ___    ___     __| |   ___ 
- / __|  / _ \   / _` |  / _ \
-| (__  | (_) | | (_| | |  __/
- \___|  \___/   \__,_|  \___|
-    
-                                        _                         _                               
-                                     __| |   ___  __   __   ___  | |   ___    _ __     ___   _ __ 
-                                    / _` |  / _ \ \ \ / /  / _ \ | |  / _ \  | '_ \   / _ \ | '__|
-                                   | (_| | |  __/  \ V /  |  __/ | | | (_) | | |_) | |  __/ | |   
-                                    \__,_|  \___|   \_/    \___| |_|  \___/  | .__/   \___| |_|   
-                                                                             |_|
+HAKAN KARADENİZ
+                                                                           
 ```
 <p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
@@ -23,18 +13,18 @@
 <br />
 <br />
 
-                        I am a 4rd year student at Istanbul Bilgi University , I will be Software Developer
+                        I am a 4rd year student at Istanbul Bilgi University
                         I share my example lessons.
-                        I will write blogs about coding. Sharing information with someone is my hobby 
+                        Sharing information with someone is my hobby 
 <p align="center">
 
 <a href="https://github.com/hakankaradeniz" target="_blank"><img src="https://komarev.com/ghpvc/?username=hakankaradeniz&color=orange" alt="hakankaradeniz :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/karadenizhakan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hakankaradeniz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:hakan.karadeniz@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-hakan.karadeniz@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
 </p>
-
-- 🔭 I’m currently working on C/C++
-- 🌱 I’m currently learning C++, C#, Java
+- I am working with AutoDesk Eagle for PCB Design
+- 🔭 I was working on C/C++
+- 🌱 I am learning C++, PCB Design, Fusion360
 - 👯 I’m looking to collaborate on Open Source Projects
 
 ### Languages and Tools:
