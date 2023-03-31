@@ -23,19 +23,18 @@
 <a href="mailto:hakan.karadeniz@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-hakan.karadeniz@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
 </p>
 
-<br />
-- I am working with AutoDesk Eagle for PCB Design 
-- 🔭 I was working on C/C++ 
-- 🌱 I am learning C++, PCB Design, Fusion360 
-- 👯 I’m looking to collaborate on Open Source Projects
 
-<p align="center">
+                          - I am working with AutoDesk Eagle for PCB Design 
+                          - 🔭 I was working on C/C++ 
+                          - 🌱 I am learning C++, PCB Design, Fusion360 
+                          - 👯 I’m looking to collaborate on Open Source Projects
+
+
 
 ### Languages and Tools:
 [<code>
 <img alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-</code>](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-[<code>
+</code>](https://en.wikipedia.org/wiki/The_C_Programming_Language)[<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 </code>](https://en.wikipedia.org/wiki/C%2B%2B)
 
