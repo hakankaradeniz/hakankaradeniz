@@ -1,5 +1,5 @@
 ```
-HAKAN KARADENİZ
+                                                                   HAKAN KARADENİZ
                                                                            
 ```
 <p align="center">
@@ -22,9 +22,9 @@ HAKAN KARADENİZ
 <a href="https://www.linkedin.com/in/karadenizhakan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hakankaradeniz-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:hakan.karadeniz@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-hakan.karadeniz@gmail.com-yellowgreen?style=flat&logo=gmail"></a>
 </p>
-- I am working with AutoDesk Eagle for PCB Design
-- 🔭 I was working on C/C++
-- 🌱 I am learning C++, PCB Design, Fusion360
+- I am working with AutoDesk Eagle for PCB Design /n
+- 🔭 I was working on C/C++ /n
+- 🌱 I am learning C++, PCB Design, Fusion360 /n
 - 👯 I’m looking to collaborate on Open Source Projects
 
 ### Languages and Tools:
