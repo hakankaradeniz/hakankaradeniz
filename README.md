@@ -30,11 +30,7 @@
                           - I am working with AutoDesk Eagle for PCB Design 
                           - 🔭 I was working on C/C++ 
                           - 🌱 I am learning C++, PCB Design, Fusion360 
-                          - 👯 I’m looking to collaborate on Open Source Projects
+                          - 👯 My main goal is to be a good person. 
 
 
-
------------------------------
-
-<img width="49%" src=""> 
 
