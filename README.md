@@ -1,8 +1,8 @@
-```
+
 <p align="center">
-                             HAKAN KARADENİZ
+                             "HAKAN KARADENİZ"
                               <p>                                             
-```
+
 <p align="center">
 <img src="https://c4.wallpaperflare.com/wallpaper/821/34/358/circuits-city-cpu-skyscraper-wallpaper-preview.jpg" width="55%">
 </p>
