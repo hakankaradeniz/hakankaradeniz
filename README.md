@@ -3,9 +3,8 @@
                                                                            
 ```
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<img src="https://c4.wallpaperflare.com/wallpaper/821/34/358/circuits-city-cpu-skyscraper-wallpaper-preview.jpg" width="55%">
 </p>
-
 
 <a href="https://www.linkedin.com/in/karadenizhakan"><img align="left" alt="Hakan Karadeniz" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://hakankaradeniz.github.io/" target="_blank"><img src="https://icon-library.com/images/icon-website-png/icon-website-png-0.jpg" alt="hakankaradeniz" width="44px"></a>
@@ -13,7 +12,7 @@
 <br />
 <br />
 
-                            I am a 4rd year student at Istanbul Bilgi University
+                            I am a fresh graduated Engineer from Istanbul Bilgi University.
                             I share my example lessons.
                             Sharing information with someone is my hobby 
 <p align="center">
@@ -34,6 +33,4 @@
 -----------------------------
 
 <img width="49%" src=""> 
-<p align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/821/34/358/circuits-city-cpu-skyscraper-wallpaper-preview.jpg" width="5%">
-</p>
+
